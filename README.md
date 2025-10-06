@@ -26,8 +26,7 @@ Aseta eräpäivä tehtäville
 
 Jaa tehtäviä muille sovellusten kautta (Share Sheet)
 
-# Asennus ja käyttö
-## Zip-tiedoston purkaminen ja siirtäminen laitteelle
+# Zip-tiedoston purkaminen ja sovelluksen siirtäminen laitteelle
 Pura .zip -tiedosto johonkin kansioon, tai vaikkapa työpöydälle
 
 Siirrä .apk tiedosto puhelimellesi
