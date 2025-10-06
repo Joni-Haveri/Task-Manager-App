@@ -46,7 +46,7 @@ Suorita tiedosto, ja seuraa ohjeita
 # Jatkokäyttö ja kehitysmahdollisuudet
 Push-ilmoitukset lähestyvistä eräpäivistä
 
-Sovelluksen julkaisu Google Play Storeen
+Sovelluksen julkaisu Google Play -kauppaan
 
 # Loppusanat
 Projektin lopputulos on toimiva ja selkeä mobiilisovellus, joka helpottaa arjen ajanhallintaa. Kehitystyön aikana opittiin Qt Creatorin käyttö, C++-ohjelmointi, mobiilisovelluskehityksen perusteet sekä versionhallinta GitHubin avulla. Sovellus toimii pohjana jatkokehitykselle ja tarjoaa laajan mahdollisuuden uusien ominaisuuksien lisäämiselle.
