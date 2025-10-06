@@ -46,6 +46,8 @@ Siirrä .apk tiedosto puhelimellesi
 Suorita ohjelma, ja seuraa ohjeita
 
 # Jatkokäyttö ja kehitysmahdollisuudet
+Sovelluskuvakkeen lisääminen
+
 Push-ilmoitukset lähestyvistä eräpäivistä
 
 Sovelluksen julkaisu Google Play -kauppaan
