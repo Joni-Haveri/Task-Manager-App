@@ -43,47 +43,10 @@ Lataa Githubista .apk päätteinen tiedosto, ja siirrä Android laitteellesi
 
 Suorita tiedosto, ja seuraa ohjeita
 
-# Testaus
-Sovellus testattu Android 15 -laitteella
-Testitapaukset kattavat sovelluksen perus- ja lisäominaisuudet:
-
-Uuden tehtävän lisääminen	
-Käyttäjä voi lisätä uuden tehtävän	Tehtävä tallentuu ja näkyy listassa
-
-Tehtävälistan näyttäminen	
-Kaikki tallennetut tehtävät näkyvät	Näkyy selkeästi listassa
-
-Tehtävän merkitseminen tehdyksi	
-Päivämäärä ja kellonaika tallentuvat	Tehtävä tila = ‘Completed’
-
-Tehtävän merkinnän peruuttaminen	
-Peruuta merkintä	Tehtävä tila = ‘Pending’
-
-Poistaminen listasta	
-Tehtävä poistuu pysyvästi
-
-Tehtävien jakaminen	
-Share Sheet -toiminto	Tehtävät jaetaan oikein
-
-Tehtävien priorisointi	
-Kiireellisyysmerkinnät	Näkyy listassa oikeassa järjestyksessä
-
-Teeman vaihto	Tumma/vaalea	
-Teema vaihtuu onnistuneesti
-
-Eräpäivän asettaminen	
-Määritä eräpäivä, näkyy listassa ja tukee priorisointia
-
-Tehtävän muokkaaminen	
-Muokkaa otsikkoa/kuvausta. Muutokset tallentuvat oikein
-
-Tehtävien säilyminen	
-Sovelluksen uudelleenkäynnistys	Tehtävät säilyvät muistissa
-
 # Jatkokäyttö ja kehitysmahdollisuudet
 Push-ilmoitukset lähestyvistä eräpäivistä
 
-Sovelluksen julkaisu Google Play ja iOS App Storeen
+Sovelluksen julkaisu Google Play Storeen
 
 # Loppusanat
 Projektin lopputulos on toimiva ja selkeä mobiilisovellus, joka helpottaa arjen ajanhallintaa. Kehitystyön aikana opittiin Qt Creatorin käyttö, C++-ohjelmointi, mobiilisovelluskehityksen perusteet sekä versionhallinta GitHubin avulla. Sovellus toimii pohjana jatkokehitykselle ja tarjoaa laajan mahdollisuuden uusien ominaisuuksien lisäämiselle.
