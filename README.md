@@ -26,11 +26,6 @@ Aseta eräpäivä tehtäville
 
 Jaa tehtäviä muille sovellusten kautta (Share Sheet)
 
-# Tiimi
-Joni Haveri: liiketoimintalogiikka ja taustatoiminnot (C++)
-
-Rene Rantasalo: graafinen käyttöliittymä ja käytettävyys
-
 # Asennus ja käyttö
 ## Kehitysympäristön tasolla
 Asenna Qt Creator sekä tarvittavat Android SDK ja NDK -työkalut.
