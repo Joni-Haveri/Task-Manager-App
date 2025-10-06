@@ -31,8 +31,8 @@ Joni Haveri: liiketoimintalogiikka ja taustatoiminnot (C++)
 
 Rene Rantasalo: graafinen käyttöliittymä ja käytettävyys
 
-## Asennus ja käyttö
-# Kehitysympäristön tasolla
+# Asennus ja käyttö
+## Kehitysympäristön tasolla
 Asenna Qt Creator sekä tarvittavat Android SDK ja NDK -työkalut.
 
 Varmista, että laitteellasi on asennettuna Java Development Kit (JDK).
