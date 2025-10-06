@@ -34,7 +34,7 @@ Varmista, että laitteellasi on asennettuna Java Development Kit (JDK).
 
 Kytke Android-laite USB-kaapelilla tietokoneeseen ja salli USB-debuggaus.
 
-Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin
+Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin. AndroidManifest.xml tarvittaessa!
 
 Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
 
