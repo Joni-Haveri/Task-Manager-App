@@ -1,13 +1,9 @@
 # Kuvaus
 Qt-Creator kehitysympäristöä käyttäen luotu tehtävienhallintasovellus Androidille, joka auttaa käyttäjää hallitsemaan omia tehtäviään yksinkertaisella ja selkeällä käyttöliittymällä. 
 
-Sovellus on suunniteltu tehostamaan ajanhallintaa ja tekemään arjesta hallittavampaa.
-
-Sovellus tehty kahden hengen tiimissä, jossa tiimijäsenistä yksi hoitaa sovelluksen liiketoimintalogiikan, toinen graafisen suunnittelun.
+Sovellus tehty kahden hengen tiimissä, jossa tiimijäsenistä yksi hoiti sovelluksen liiketoimintalogiikan, toinen graafisen suunnittelun.
 
 Logiikka toteutettu Qt Creatorilla käyttäen C++-kieltä. Graafiseen käyttöliittymäsuunnitteluun on käytetty Qt Design Studiota.
-
-Sovellus sisältää perustoiminnot, kuten tehtävien lisäämisen, muokkaamisen, poistamisen ja merkitsemisen tehdyksi, lisäksi tarjoaa lisäominaisuuksia, kuten tehtävien priorisoinnin, tumman/vaalean teeman ja tehtävien eräpäivien asettamisen.
 
 # Keskeiset toiminnot
 Lisää uusia tehtäviä
@@ -46,6 +42,43 @@ Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
 Lataa Githubista .apk päätteinen tiedosto, ja siirrä Android laitteellesi
 
 Suorita tiedosto, ja seuraa ohjeita
+
+# Testaus
+Sovellus testattu Android 15 -laitteella
+Testitapaukset kattavat sovelluksen perus- ja lisäominaisuudet:
+
+Uuden tehtävän lisääminen	
+Käyttäjä voi lisätä uuden tehtävän	Tehtävä tallentuu ja näkyy listassa
+
+Tehtävälistan näyttäminen	
+Kaikki tallennetut tehtävät näkyvät	Näkyy selkeästi listassa
+
+Tehtävän merkitseminen tehdyksi	
+Päivämäärä ja kellonaika tallentuvat	Tehtävä tila = ‘Completed’
+
+Tehtävän merkinnän peruuttaminen	
+Peruuta merkintä	Tehtävä tila = ‘Pending’
+
+Poistaminen listasta	
+Tehtävä poistuu pysyvästi
+
+Tehtävien jakaminen	
+Share Sheet -toiminto	Tehtävät jaetaan oikein
+
+Tehtävien priorisointi	
+Kiireellisyysmerkinnät	Näkyy listassa oikeassa järjestyksessä
+
+Teeman vaihto	Tumma/vaalea	
+Teema vaihtuu onnistuneesti
+
+Eräpäivän asettaminen	
+Määritä eräpäivä, näkyy listassa ja tukee priorisointia
+
+Tehtävän muokkaaminen	
+Muokkaa otsikkoa/kuvausta. Muutokset tallentuvat oikein
+
+Tehtävien säilyminen	
+Sovelluksen uudelleenkäynnistys	Tehtävät säilyvät muistissa
 
 # Jatkokäyttö ja kehitysmahdollisuudet
 Push-ilmoitukset lähestyvistä eräpäivistä
