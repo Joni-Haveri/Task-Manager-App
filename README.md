@@ -43,7 +43,7 @@ Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin
 
 Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
 
-## Muuten
+## zip-tiedoston purkaminen ja siirtäminen laitteelle
 Pura .zip -tiedosto johonkin kansioon, tai vaikkapa työpöydälle
 
 Siirrä .apk tiedosto puhelimellesi
