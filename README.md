@@ -1,5 +1,5 @@
 # Kuvaus
-Qt-Creator kehitysympäristöä käyttäen luotu tehtävienhallintasovellus Androidille, joka auttaa käyttäjää hallitsemaan omia tehtäviään yksinkertaisella ja selkeällä käyttöliittymällä. 
+Qt-Creator kehitysympäristössä luotu tehtävienhallintasovellus Androidille, joka auttaa käyttäjää hallitsemaan omia tehtäviään yksinkertaisella ja selkeällä käyttöliittymällä. 
 
 Sovellus tehty kahden hengen tiimissä, jossa tiimijäsenistä yksi hoiti sovelluksen liiketoimintalogiikan, toinen graafisen suunnittelun.
 
