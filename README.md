@@ -27,17 +27,6 @@ Aseta eräpäivä tehtäville
 Jaa tehtäviä muille sovellusten kautta (Share Sheet)
 
 # Asennus ja käyttö
-## Kehitysympäristön tasolla
-Asenna Qt Creator sekä tarvittavat Android SDK ja NDK -työkalut.
-
-Varmista, että laitteellasi on asennettuna Java Development Kit (JDK).
-
-Kytke Android-laite USB-kaapelilla tietokoneeseen ja salli USB-debuggaus.
-
-Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin. AndroidManifest.xml tarvittaessa!
-
-Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
-
 ## Zip-tiedoston purkaminen ja siirtäminen laitteelle
 Pura .zip -tiedosto johonkin kansioon, tai vaikkapa työpöydälle
 
