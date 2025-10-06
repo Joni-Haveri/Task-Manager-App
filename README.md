@@ -31,8 +31,7 @@ Joni Haveri: liiketoimintalogiikka ja taustatoiminnot (C++)
 
 Rene Rantasalo: graafinen käyttöliittymä ja käytettävyys
 
-# Asennus ja käyttö
-## Kehitysympäristön tasolla
+# Kehitysympäristön tasolla
 Asenna Qt Creator sekä tarvittavat Android SDK ja NDK -työkalut.
 
 Varmista, että laitteellasi on asennettuna Java Development Kit (JDK).
@@ -43,7 +42,7 @@ Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin
 
 Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
 
-## Muuten
+# Muuten
 Pura .zip -tiedosto johonkin kansioon, tai vaikkapa työpöydälle
 
 Siirrä .apk tiedosto puhelimellesi
