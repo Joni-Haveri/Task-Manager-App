@@ -31,8 +31,7 @@ Joni Haveri: liiketoimintalogiikka ja taustatoiminnot (C++)
 
 Rene Rantasalo: graafinen käyttöliittymä ja käytettävyys
 
-# Asennus ja käyttö
-## Kehitysympäristön tasolla
+# Asennus kehitysympäristön tasolla
 Asenna Qt Creator sekä tarvittavat Android SDK ja NDK -työkalut.
 
 Varmista, että laitteellasi on asennettuna Java Development Kit (JDK).
@@ -42,11 +41,6 @@ Kytke Android-laite USB-kaapelilla tietokoneeseen ja salli USB-debuggaus.
 Lisää Main.qml ja main.cpp koodipätkät oikeisiin paikkoihin
 
 Buildaa sovellus Qt Creatorissa ja asenna APK Android-laitteelle.
-
-## Muuten
-Lataa Githubista .apk päätteinen tiedosto, ja siirrä Android laitteellesi
-
-Suorita tiedosto, ja seuraa ohjeita
 
 # Jatkokäyttö ja kehitysmahdollisuudet
 Push-ilmoitukset lähestyvistä eräpäivistä
