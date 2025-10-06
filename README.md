@@ -1,5 +1,6 @@
 # Kuvaus
-Tehtävienhallintasovellus mobiililaitteille, joka auttaa käyttäjää hallitsemaan omia tehtäviään yksinkertaisella ja selkeällä käyttöliittymällä. Sovellus on suunniteltu tehostamaan ajanhallintaa ja tekemään arjesta hallittavampaa.
+Qt-Creator kehitysympäristöä käyttäen luotu tehtävienhallintasovellus Androidille, joka auttaa käyttäjää hallitsemaan omia tehtäviään yksinkertaisella ja selkeällä käyttöliittymällä. 
+Sovellus on suunniteltu tehostamaan ajanhallintaa ja tekemään arjesta hallittavampaa.
 Sovellus tehty kahden hengen tiimissä, jossa tiimijäsenistä yksi hoitaa sovelluksen liiketoimintalogiikan, toinen graafisen suunnittelun.
 Logiikka toteutettu Qt Creatorilla käyttäen C++-kieltä. Graafiseen käyttöliittymäsuunnitteluun on käytetty Qt Design Studiota.
 Sovellus sisältää perustoiminnot, kuten tehtävien lisäämisen, muokkaamisen, poistamisen ja merkitsemisen tehdyksi, lisäksi tarjoaa lisäominaisuuksia, kuten tehtävien priorisoinnin, tumman/vaalean teeman ja tehtävien eräpäivien asettamisen.
