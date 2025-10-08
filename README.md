@@ -27,11 +27,13 @@ Aseta eräpäivä tehtäville
 Jaa tehtäviä muille sovellusten kautta (Share Sheet)
 
 # Zip-tiedoston purkaminen ja sovelluksen siirtäminen laitteelle
-Pura .zip -tiedosto johonkin kansioon, tai vaikkapa työpöydälle
+Asenna zip-tiedosto, nimellä sovellus.zip 
 
-Siirrä .apk tiedosto puhelimellesi
+Pura tiedosto johonkin kansioistasi tai vaikkapa työpöydälle 
 
-Suorita ohjelma, ja seuraa ohjeita
+Siirrä .apk-tiedosto puhelimellesi (useita tapoja) 
+
+Lopuksi suorita ohjelma, jonka lisäsit laitteellesi, ja seuraa ohjeita 
 
 # Jatkokäyttö ja kehitysmahdollisuudet
 Sovelluskuvakkeen lisääminen
